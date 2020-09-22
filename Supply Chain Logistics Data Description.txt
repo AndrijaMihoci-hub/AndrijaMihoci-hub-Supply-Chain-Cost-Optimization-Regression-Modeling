@@ -1,0 +1,21 @@
+
+Supply Chain Logistics
+
+Assigning a route to each order
+
+Source: Brunel University London by Tatiana Kalganova and Ivars Dzalbs
+
+Data: 9215 orders, 14 variables
+
+Available carriers: 1540 entries (9 groups), 11 variables
+
+22 allowed links between the plants (warehouses) and shipping ports
+
+2036 supported plant (warehouse)-product combinations
+
+14 special cases, where plants (warehouse) is only allowed to support specific customer
+
+19 plants (warehouses) capacities measured in number of orders per day
+
+19 plants (warehouses) cost associated in storing the products in given warehouse measured in dollars per unit
+
