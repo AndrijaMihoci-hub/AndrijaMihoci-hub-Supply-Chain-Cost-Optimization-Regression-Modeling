@@ -1,0 +1,5 @@
+Supply Chain Regression Modeling
+
+Link to a created dashboard
+
+https://public.tableau.com/profile/andrija.mihoci7725#!/vizhome/SupplyChainRegressionDashboard/SupplyChainRegressionDashboard?publish=yes
